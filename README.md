@@ -1,7 +1,7 @@
 # GSoC16 Python Software Foundation - Scrapinghub: Frontera Python 3 Support Final Submission
 Final work submission to GSoC describing the work I did for my project.
-
-
+      
+      
 
 Hello,  
 This post describes my work on Python 3 support for frontera.
