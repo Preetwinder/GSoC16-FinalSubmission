@@ -3,7 +3,6 @@ Final work submission to GSoC describing the work I did for my project.
       
       
 
-H
 
 I have achieved my goal satisfactorily, frontera now works under both Python 2 and Python 3 for all the different scenarios such as with different DB's(Postgres, Mysql, Hbase) and with different Messagebus implementations(Kafka, ZMQ). The latest release of Frontera - [0.6.0](https://github.com/scrapinghub/frontera/releases/tag/v0.6.0) now available on PyPI contains these changes.        
                               
